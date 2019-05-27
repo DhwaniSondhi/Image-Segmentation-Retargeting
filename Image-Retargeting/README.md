@@ -1,5 +1,5 @@
 # Image Re-targeting
-Image retargeting is the process of pasting the content of an image of certain size to a canvas of a different size. This implmentation used Seam- carving algorithm and Dynamic programming.
+Image retargeting is the process of pasting the content of an image of certain size to a canvas of a different size. This implementation used Seam- carving algorithm and Dynamic programming.
 
 ### Seam Carving
 This algorithm uses vertical or horizontal seams to reduce the size iteratively. The seam removal leads to reduction of image size by one unit. The seams are detected using Dynamic Programming. Following is an example of these seams:

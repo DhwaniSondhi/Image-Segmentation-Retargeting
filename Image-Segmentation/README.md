@@ -9,7 +9,7 @@ The algorithms used are :
 
 ## Demo:
 The program takes an input image and a configuration file that provides the initial set of foreground and
-background points and creates an output file. The output file has foreground in white and background in black. Following are some examples:
+background points and creates an output file. The output file has foreground in white and background in black. Following are some samples:
 
 
 Input            |  Output

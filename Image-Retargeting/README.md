@@ -4,7 +4,7 @@ Image retargeting is the process of pasting the content of an image of certain s
 ### Seam Carving
 This algorithm uses vertical or horizontal seams to reduce the size iteratively. The seam removal leads to reduction of image size by one unit. The seams are detected using Dynamic Programming. Following is an example of these seams:
 
-![](https://github.com/DhwaniSondhi/Image-Segmentation-Retargeting/blob/master/Image-Retargeting/code/build/abc.png =100x100)
+<img src="https://github.com/DhwaniSondhi/Image-Segmentation-Retargeting/blob/master/Image-Retargeting/code/build/abc.png" alt="drawing" width="400"/>
 
 ## Demo:
 The program takes an input image, the new width and height required and creates an reduced output file. Following are some samples:

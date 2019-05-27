@@ -7,7 +7,7 @@ This algorithm uses vertical or horizontal seams to reduce the size iteratively.
 ![](https://github.com/DhwaniSondhi/Image-Segmentation-Retargeting/blob/master/Image-Retargeting/code/build/abc.png)
 
 ## Demo:
-The program takes an input image, the new width and height required and creates an reduced output file. Following are some examples:
+The program takes an input image, the new width and height required and creates an reduced output file. Following are some samples:
 
 
 Input            |  Output

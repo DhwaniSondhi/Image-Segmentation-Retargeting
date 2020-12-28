@@ -1,6 +1,6 @@
 # Image-Segmentation-Retargeting
 An application for binary segmentation of an image by classifying the pixels as foreground/ background and re-targeting an image to a canvas of different size. 
- The implementation is made using C++, OpenCV library and Linux.
+ The implementation is made using C++, OpenCV library, and Linux.
  
  **For more details, please refer to the following README.md.**
  
